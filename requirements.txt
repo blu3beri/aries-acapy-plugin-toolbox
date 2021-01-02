@@ -1,4 +1,5 @@
-aries-cloudagent[indy]@git+https://github.com/dbluhm/aries-cloudagent-python@feature/assign-metadata-to-invite
+aries-cloudagent
+python3-indy
 marshmallow==3.5.1
 flake8
 python-dateutil
